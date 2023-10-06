@@ -8,7 +8,7 @@ function App(props)
   const expenses = [
     {
       date: new Date(2023, 0, 10),
-      title: 'New book',
+      title: "",
       price: 30.99
     },
     { 
